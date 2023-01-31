@@ -1,5 +1,5 @@
 <h1 align="center">
-    🎈 React Native Camera Kit
+    🎈 React Native Camera Kit (New) working with RN 0.71.1
 </h1>
 
 <p align="center">
@@ -18,9 +18,6 @@
 <table>
   <tr>
     <td>
-      <img src="images/screenshot.jpg"/>
-    </td>
-    <td>
       <ul>
         <li><h3>Cross Platform (iOS and Android)</h3></li>
         <li><h3>Optimized for performance and high photo capture rate</h3></li>
@@ -34,7 +31,7 @@
 ## Installation (RN > 0.60)
 
 ```bash
-yarn add react-native-camera-kit
+yarn add react-native-camera-kit-new
 ```
 
 ```bash
