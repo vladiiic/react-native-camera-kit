@@ -11,7 +11,7 @@
   <a href="https://github.com/teslamotors/react-native-camera-kit/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="React Native Camera Kit is released under the MIT license." />
   </a>
-  <a href="https://www.npmjs.org/package/react-native-camera-kit">
+  <a href="https://www.npmjs.org/package/react-native-camera-kit-new">
     <img src="https://badge.fury.io/js/react-native-camera-kit.svg" alt="Current npm package version." />
   </a>
 </p>
